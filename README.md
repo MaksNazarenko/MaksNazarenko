@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>What's up! <img src="https://raw.githubusercontent.com/MaksNazarenko/MaksNazarenko/main/assets/Hi.gif" width="30px"</h1>
+  <h1>What's up! <img src="https://raw.githubusercontent.com/MaksNazarenko/MaksNazarenko/main/assets/hi.gif" width="30px"</h1>
 </div>
 
-<img align='right' src='https://raw.githubusercontent.com/MaksNazarenko/MaksNazarenko/main/assets/giphy.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/MaksNazarenko/MaksNazarenko/main/assets/github.gif' width='200'>
 
 ###
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/nazarenko-maksym/)
